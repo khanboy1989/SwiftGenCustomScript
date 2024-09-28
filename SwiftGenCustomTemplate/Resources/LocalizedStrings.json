@@ -1,0 +1,6 @@
+{
+  "welcome_message": "Welcome to our app!",
+  "error_message": "An error occurred, please try again.",
+  "test_key" : "Test Key",
+  "test_key_two": "Test key 2"
+}
